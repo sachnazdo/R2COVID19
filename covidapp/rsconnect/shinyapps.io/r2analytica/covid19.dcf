@@ -1,0 +1,12 @@
+name: covid19
+title: covid19
+username:
+account: r2analytica
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2633158
+bundleId: 3491848
+url: https://r2analytica.shinyapps.io/covid19/
+when: 1596935320.0221
+asMultiple: FALSE
+asStatic: FALSE
