@@ -8,6 +8,8 @@ The creator received invaluable supports from:
 
 
 Web App: https://r2analytica.shinyapps.io/covid19/
+
+
 Run on your desktop: 
 `shiny::runGitHub("sachnazdo/R2COVID19")`
 
